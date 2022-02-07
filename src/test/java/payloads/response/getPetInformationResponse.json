@@ -1,0 +1,26 @@
+{
+    "success": {
+        "id": 1,
+        "category": {
+            "id": "#ignore",
+            "name": "string"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": "#ignore",
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    
+"error_petNotFound": {
+    "code": 1,
+    "type": "error",
+    "message": "Pet not found"
+}
+}
